@@ -43,11 +43,11 @@ The nmap scan shows what I expected it to show.
 ssh connection refused.
 
 # Author
-LinkedIn: linkedin.com/in/yvan-obama
+LinkedIn: linkedin.com/in/yvan-obama. 
 Email: yvan.obama@outlook.com
 
 
 # License
 This project is open source and available for educational purposes.
 
-Built this for better understanding of Linus, pen testing tools and advancement in cybersecuirty
+Built this for better understanding of Linux, pen testing and advancement in cybersecuirty
