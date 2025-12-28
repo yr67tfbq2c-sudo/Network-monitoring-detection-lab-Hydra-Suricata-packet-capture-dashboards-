@@ -48,4 +48,6 @@ Email: yvan.obama@outlook.com
 
 
 # License
-Open source
+This project is open source and available for educational purposes.
+
+Built this for better understanding of Linus, pen testing tools and advancement in cybersecuirty
