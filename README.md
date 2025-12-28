@@ -43,6 +43,8 @@ The nmap scan shows what I expected it to show.
 ssh connection refused.
 
 # Author
+LinkedIn: linkedin.com/in/yvan-obama
+Email: yvan.obama@outlook.com
 
 
 # License
